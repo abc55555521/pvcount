@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.daydayup.goodgoodstudy</groupId>
-  <artifactId>pvcount</artifactId>
+  <artifactId>wordcount</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>pvcount</name>
+  <name>wordcount</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
